@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Product development at https://spotfincreative.com
-- 🌱 I’m currently learning to be better at JavaScript
+- 🌱 I’m currently learning to be better at Vanilla JavaScript
 - 💬 Ask me about WordPress, BigCommerce, or Products
 - 📫 How to reach me: https://drewpoland.com
