@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Product development at https://spotfincreative.com
+- 🧪 I’m currently working on Product development at https://spotfincreative.com
 - 🌱 I’m currently learning to be better at Vanilla JavaScript
 - 📦️ Curating a collection of helpful dev tools and utilities at https://github.com/bmoredrew/blue-ring-octo
 - 💬 Ask me about WordPress, BigCommerce, or Products
